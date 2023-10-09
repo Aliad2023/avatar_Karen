@@ -10,7 +10,7 @@ html{
     font-size: 16px;
 }
 
-img{
+.avatar{
     width: 270px;
     height:270px;
     border-radius: 50%;
@@ -18,8 +18,4 @@ img{
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-}
-
-section{
-    display: flex;
 }
